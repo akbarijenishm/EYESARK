@@ -1,0 +1,24 @@
+name: Deliver reviewed EYESARK ZIP
+on:
+  workflow_dispatch:
+  push:
+    branches: [eyesark-hd-delivery-2026-10-09]
+    paths: [delivery/ready.json]
+permissions:
+  contents: write
+jobs:
+  deliver:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Read this reviewed public snapshot
+        run: |
+          git init source
+          git -C source remote add origin "$GITHUB_SERVER_URL/$GITHUB_REPOSITORY.git"
+          git -C source fetch --depth=1 origin "$GITHUB_SHA"
+          git -C source checkout --detach FETCH_HEAD
+      - name: Verify and upload the reviewed package to its draft release
+        working-directory: source
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 delivery/upload-release.py
