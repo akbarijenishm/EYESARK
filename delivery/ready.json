@@ -1,0 +1,87 @@
+{
+  "repository": "akbarijenishm/EYESARK",
+  "release_id": 408179388,
+  "tag": "eyesark-corporate-hd-2026-10-09",
+  "chunks": [
+    {
+      "path": "chunks/part-001.base64",
+      "sha256": "37af90d57a32d0ca2e56bf61bd0fd8c1525329b583f6fabb9e73a592a626e17e"
+    },
+    {
+      "path": "chunks/part-002.base64",
+      "sha256": "905c875c413835d58a2d73f075fa0f4f4e421ffe303719f362e0623462482591"
+    },
+    {
+      "path": "chunks/part-003.base64",
+      "sha256": "56c87c3bfbfbfda1d4fa80ddf2e2b23bde8f57c2891f2a382b7ae8c89fcb337b"
+    },
+    {
+      "path": "chunks/part-004.base64",
+      "sha256": "6ecd08a3cff4cae971ba5e50ce261ad32e8d55d266a18ec92fe929c5a46c4294"
+    },
+    {
+      "path": "chunks/part-005.base64",
+      "sha256": "d23c9c27d5fb52104f4bc2c729fb4c1db655092362dde6a6bff42e3dc3eb4071"
+    },
+    {
+      "path": "chunks/part-006.base64",
+      "sha256": "cc1c52f89b7d19fc45ff66cdc7c1a654544de4418921c1c99b1dfa8d39254571"
+    },
+    {
+      "path": "chunks/part-007.base64",
+      "sha256": "0cd324119180dfbea2b0da8302824f433e4a3766caa286cb4629327d4f18c037"
+    },
+    {
+      "path": "chunks/part-008.base64",
+      "sha256": "73f603dd2bf97eba2f595cfb3b5d28c5499b1a00406a84e1420287f7826388f5"
+    },
+    {
+      "path": "chunks/part-009.base64",
+      "sha256": "7f303d053110252a1b4ccfe0495ff56a7a9a593ccee57f1aee7ff07a3cb77aff"
+    },
+    {
+      "path": "chunks/part-010.base64",
+      "sha256": "b27a62db2ca425c10919dd9bd1baaf6c80fe9868fc17855a1e1fdbb970311261"
+    },
+    {
+      "path": "chunks/part-011.base64",
+      "sha256": "388e52d4cd9a197e764d29281395720bf19e2a0b297b173d2c958c6509ec8337"
+    },
+    {
+      "path": "chunks/part-012.base64",
+      "sha256": "2011b1ac1f9eab8d81bfbc32d83c31ae2a4fc5594d6701ca3eef47df52b10fb0"
+    },
+    {
+      "path": "chunks/part-013.base64",
+      "sha256": "7fbcb46f703be1e2316897316ba3434d5178d94a304e14d5c09142e0d19b6207"
+    },
+    {
+      "path": "chunks/part-014.base64",
+      "sha256": "2893dac86072f4d30e7ea77653e1997394092956b1c57c1dc53c64fd99a5afe6"
+    },
+    {
+      "path": "chunks/part-015.base64",
+      "sha256": "5418a572ded01efa802c8a09fc9dbb77e98a1c15ba34b7381952dc998f2d8b4f"
+    },
+    {
+      "path": "chunks/part-016.base64",
+      "sha256": "79abcb71aebc0109d859dfdd04aca6ab7d17301130eb90358b60aa7be9e02e9a"
+    },
+    {
+      "path": "chunks/part-017.base64",
+      "sha256": "53d3b7d53268c59643db05f77bbe7b500d1624536d39792811efe75014902387"
+    },
+    {
+      "path": "chunks/part-018.base64",
+      "sha256": "5afdf32e067d1d0f1dcbaec87af7e733c48e712a462a2202f37c5308e2ea969d"
+    },
+    {
+      "path": "chunks/part-019.base64",
+      "sha256": "e1f732fa655a3742efa17d9d347606c0e5a4cf647cdede90d4c4271035a103e1"
+    },
+    {
+      "path": "chunks/part-020.base64",
+      "sha256": "da4dcf0e4efbc230ccbb8c9559fcbb9226e45aef1908269a251ddd7088b02258"
+    }
+  ]
+}

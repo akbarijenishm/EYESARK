@@ -1,0 +1,148 @@
+{
+  "public_files": [
+    {
+      "path": "EYESARK-website.html",
+      "bytes": 84535024,
+      "sha256": "2648dd020cad3e1897a6fff8ae21aa155f2bf422e1006eb1c00d4709aa4bbd46"
+    },
+    {
+      "path": "START-HERE.txt",
+      "bytes": 1469,
+      "sha256": "f2fd95e08905b3d45b825a2e196aeb32a56dc8130f2ff5a312d1a3de176a0415"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28327,
+      "sha256": "a89447cbb363abeec133660159e393f0b19d6384b132775c52318a1596e35696"
+    },
+    {
+      "path": "media/city-context.jpg",
+      "bytes": 634112,
+      "sha256": "933f8b54d91a901e197ad81f4cc7d58c62acb25545373b9c649351678d174a1c"
+    },
+    {
+      "path": "media/english-pathshala.jpg",
+      "bytes": 22388,
+      "sha256": "d805c37bf3a33848ea21ca466500ffe325aa02fd8a7c473c9a5ed4423a9765e1"
+    },
+    {
+      "path": "media/eyesark-logo.png",
+      "bytes": 147016,
+      "sha256": "3b7c97357937615275b5b49c471d0c41dfc636e9e2bdadea1fd26df711ba7570"
+    },
+    {
+      "path": "media/hero-loop-mobile.mp4",
+      "bytes": 3502272,
+      "sha256": "d5925083453e59204b007ac5879ee9dd2e2c336144e0119978dcfc5293342192"
+    },
+    {
+      "path": "media/hero-loop.mp4",
+      "bytes": 6225112,
+      "sha256": "f3373b53277980c95d9366643db7f523655bacd9f01f1031b4b6ef26cfa549f0"
+    },
+    {
+      "path": "media/hero-poster.jpg",
+      "bytes": 563666,
+      "sha256": "512ac4a7148c9af9158fc50d3d5ad47a9dcb025cf18a91d526fec518a044f4f6"
+    },
+    {
+      "path": "media/network-1.jpg",
+      "bytes": 42269,
+      "sha256": "a118ae3a7e1596c030f1f52c1750e1b438a5816ab40ce565a6222cb2bb0629d3"
+    },
+    {
+      "path": "media/network-film.mp4",
+      "bytes": 48837769,
+      "sha256": "4a04fb6d73e7b6f6db2b463c16bd02a687e8e6d162154d000622c458d6296986"
+    },
+    {
+      "path": "media/outdoor-close.jpg",
+      "bytes": 563666,
+      "sha256": "512ac4a7148c9af9158fc50d3d5ad47a9dcb025cf18a91d526fec518a044f4f6"
+    },
+    {
+      "path": "media/outdoor-day.jpg",
+      "bytes": 623114,
+      "sha256": "d2afeb5648131cef2d86921eb3d3e1d30b0c2a02eefb1b175e40090528ed1dbc"
+    },
+    {
+      "path": "media/pragati-arcelia.jpg",
+      "bytes": 28125,
+      "sha256": "a58997aeeae84350c1a036f9ce00685f29cbd071277f921e48edf59d27397c99"
+    },
+    {
+      "path": "media/shivam-lasik.jpg",
+      "bytes": 28544,
+      "sha256": "10e17b9bd91a294436c368242fb31d348f853e921bc360edfccd7826dfd20b4d"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 63,
+      "sha256": "5fb879cccd70b751676ac810f831e4b89abd61cf2b618946a9b69d3799d2ac61"
+    },
+    {
+      "path": "site.css",
+      "bytes": 28734,
+      "sha256": "e181434407da404c974f1952981f9200f8ced94a2c6884258b86b54736bc0fc2"
+    },
+    {
+      "path": "site.js",
+      "bytes": 9998,
+      "sha256": "ed59fc429349b3489fb571cb0fb89b2cfc726a16df888dfbd433ca94a76f2f91"
+    },
+    {
+      "path": "sitemap.xml",
+      "bytes": 179,
+      "sha256": "09271136863fec8216cd6d1d79aaec9b4d8904c269bc16e57fefc369b53f8d3e"
+    }
+  ],
+  "zip": {
+    "bytes": 125140439,
+    "sha256": "90f46f073e4c9650bf85463d6b569ea386e780d20e9e2935b8a52fcc51069d02"
+  },
+  "standalone": {
+    "bytes": 84535024,
+    "sha256": "2648dd020cad3e1897a6fff8ae21aa155f2bf422e1006eb1c00d4709aa4bbd46"
+  },
+  "video_checks": [
+    {
+      "path": "media/hero-loop.mp4",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "duration": 5.5,
+      "streams": 1
+    },
+    {
+      "path": "media/hero-loop-mobile.mp4",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "duration": 5.5,
+      "streams": 1
+    },
+    {
+      "path": "media/network-film.mp4",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "duration": 27.933333,
+      "streams": 1
+    }
+  ],
+  "logo_exact": true,
+  "excludes": [
+    "original camera files",
+    "DJI telemetry",
+    "private uploads",
+    "share manifests",
+    "development files",
+    "research",
+    "credentials",
+    ".git"
+  ],
+  "status": "Locally packaged and byte-verified; public download pending"
+}
